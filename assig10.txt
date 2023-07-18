@@ -1,0 +1,19 @@
+ANS 1		Spring MVC is a Java framework that is used to develop web applications. It is built on a Model-View-Controller (MVC) pattern and possesses all the basic features of a spring framework, such as Dependency Injection, Inversion of Control.
+
+ANS 2		It enables rapid and parallel development. Development of the application becomes fast. Easy for multiple developers to work together. Easier to Update the application.
+
+ANS 3		The DispatcherServlet is the front controller in Spring web applications. It's used to create web applications and REST services in Spring MVC. In a traditional Spring web application, this servlet is defined in the web.
+
+ANS 4		Overview. All MVC frameworks provide a way of working with views. Spring does that via the view resolvers, which enable you to render models in the browser without tying the implementation to a specific view technology. The ViewResolver maps view names to actual views.\
+
+ANS 5		@RequestParam is used to capture query parameters or form parameters from the URL, while @PathVariable is used to capture values from the URL path. They also have different syntax, usage, and behavior in handling URL parameters in Spring MVC applications
+
+ANS 6		In Spring MVC, the model works a container that contains the data of the application. Here, a data can be in any form such as objects, strings, information from the database, etc. It is required to place the Model interface in the controller part of the application.
+
+ANS 7		@ModelAttribute is an annotation that binds a method parameter or method return value to a named model attribute, and then exposes it to a web view. In this tutorial, we'll demonstrate the usability and functionality of this annotation through a common concept, a form submitted from a company's employee.
+
+ANS 8		Spring @Repository annotation is used to indicate that the class provides the mechanism for storage, retrieval, search, update and delete operation on objects.
+
+ANS 9		Representational State Transfer (REST) is a software architecture that imposes conditions on how an API should work. REST was initially created as a guideline to manage communication on a complex network like the internet.
+
+ANS 10		SOAP supports only XML data exchange. REST supports XML, JSON, plain text, HTML. SOAP messages are larger, which makes communication slower. REST has faster performance due to smaller messages and caching support.
